@@ -1,0 +1,9 @@
+
+
+[dbservers]
+192.168.33.8 apache_package=httpd
+
+[webservers]
+192.168.56.5 apache_package=apache2
+
+
